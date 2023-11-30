@@ -1,0 +1,7 @@
+#--------------------------------------------------------#
+# Last Update: 30-11-2023 with 1 domains
+# MIT License: Copyright (c) 2022 renash2me
+# https://github.com/renash2me/pi-hole_blocklist
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
+adclick.g.doubleclick.net/
